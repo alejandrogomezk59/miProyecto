@@ -32,6 +32,6 @@ export class PapelTijeraComponent {
   }
 
   comparo(recibido){
-      // alert ('Eleccion usuario '+ recibido + ' Eleccion máquina ' + this.eligeEquipo() )
+      // alert ('Eleccion del usuario '+ recibido + ' Eleccion máquina ' + this.eligeEquipo() )
   }
 }
